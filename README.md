@@ -8,7 +8,7 @@ I'm Data and Software Engineer in constant learning looking to expand my knowled
 Welcome to my repositories and I'm sure it'll be useful to you
 
 
-<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> <img width="48" height="48" src="https://www.svgrepo.com/show/261919/database.svg" alt="sql"/>  <img width="48" height="48" src="https://commons.wikimedia.org/wiki/File:C_Programming_Language.svg" alt="sql"/
+<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> <img width="48" height="48" src="https://www.svgrepo.com/show/261919/database.svg" alt="sql"/>  <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="sql"/
 
 
 
