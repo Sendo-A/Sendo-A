@@ -9,7 +9,7 @@ Welcome to my repositories and I'm sure it'll be useful to you
 
 The languages That I use.
 
-#### Applications - Algorithms
+#### Algorithms - Machine Learning - Applications...
 
 <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="sql"/> <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> 
 
@@ -17,5 +17,8 @@ The languages That I use.
 
 <img width="48" height="48" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/sql-server-5410224-4543401.png?f=webp&w=256" alt="sql"/>
 
+#### Cloud Computing
+
+<img width="48" height="48" src="https://www.svgrepo.com/show/353467/azure-icon.svg" alt="sql"/>
 
 
