@@ -10,32 +10,4 @@ Welcome to my repositories and I'm sure it'll be useful to you
 
 <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 
-
-![Python](https://img.icons8.com/color/48/python--v1.png)
-![Bootstrap](https://img.shields.io/badge/Framework-Bootstrap-blue)
-![React](https://img.shields.io/badge/Library-React-blue)
-
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-.yellow-rectangle {
-  background-color: yellow;
-  width: 100px;
-  height: 50px;
-  text-align: center;
-  line-height: 50px;
-  font-size: 24px;
-  font-weight: bold;
-}
-</style>
-</head>
-<body>
-<div class="yellow-rectangle">
-  <span style="color: black;">Yellow Rectangle!</span>
-</div>
-</body>
-</html>
-
-
-![Yellow Rectangle](yellow-rectangle.html)
+![SQL](<a href="https://www.flaticon.com/free-icons/sql" title="sql icons">Sql icons created by Smashicons - Flaticon</a>)
