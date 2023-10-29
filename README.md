@@ -7,12 +7,21 @@ I'm Data and Software Engineer in constant learning looking to expand my knowled
 
 Welcome to my repositories and I'm sure it'll be useful to you
 
-<p align="center">
-  <img src="https://www.python.org/static/img/python-logo@2x.png" alt="Python Logo" width="100">
-  <img src="c_logo_url" alt="C Logo" width="100">
-  <a href="https://www.linkedin.com/in/your_profile" target="_blank">
-    <img src="linkedin_logo_url" alt="LinkedIn Logo" width="100">
-  </a>
-</p>
+<a href="https://www.facebook.com/undetectable0101">
+  <img src="facebook-icon.svg" alt="Facebook Profile">
+</a>
+
+<a href="https://www.linkedin.com/in/your-profile-link">
+  <img src="linkedin-icon.svg" alt="LinkedIn Profile">
+</a>
+
+<a href="https://twitter.com/your-profile-link">
+  <img src="twitter-icon.svg" alt="Twitter Profile">
+</a>
+
+<a href="mailto:your-email@example.com">
+  <img src="email-icon.svg" alt="Email">
+</a>
+
 
 
