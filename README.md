@@ -12,11 +12,8 @@ Welcome to my repositories and I'm sure it'll be useful to you
 
 <img width="48" height="48" src="https://www.svgrepo.com/show/261919/database.svg" alt="sql"/>
 
-
-<div style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1" />
-  <p style="color: red;">Python</p>
-  <img src="https://www.svgrepo.com/show/261919/database.svg" alt="sql" />
-  <p style="color: green;">SQL</p>
+<div style="background-color: yellow; color: blue; padding: 10px; border: 2px solid blue; border-radius: 5px;">
+  Python
 </div>
+
 
