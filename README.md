@@ -10,5 +10,5 @@ Welcome to my repositories and I'm sure it'll be useful to you
 
 <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 
-![SQL](https://www.flaticon.com/free-icon/database_4248443)
+![SQL](https://www.svgrepo.com/show/22166/database.svg)
 
