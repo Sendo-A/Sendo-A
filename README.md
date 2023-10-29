@@ -18,6 +18,10 @@ Welcome to my repositories and I'm sure it'll be useful to you
 
 <img width="48" height="48" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/sql-server-5410224-4543401.png?f=webp&w=256" alt="sql"/>
 
+#### Vizualisation
+
+<img width="48" height="48" src="https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022-small.png" alt="sql"/>
+
 - Platforms for applied cloud Computing used [ Azure, Ibm]
 
 #### Cloud Computing
