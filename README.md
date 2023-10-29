@@ -15,8 +15,27 @@ Welcome to my repositories and I'm sure it'll be useful to you
 ![Bootstrap](https://img.shields.io/badge/Framework-Bootstrap-blue)
 ![React](https://img.shields.io/badge/Library-React-blue)
 
-<svg width="200" height="100" xmlns="http://www.w3.org/2000/svg">
-  <rect width="100%" height="100%" fill="yellow" />
-  <text x="50%" y="50%" fill="blue" font-size="24" text-anchor="middle" dy=".3em">Python</text>
-</svg>
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.yellow-rectangle {
+  background-color: yellow;
+  width: 100px;
+  height: 50px;
+  text-align: center;
+  line-height: 50px;
+  font-size: 24px;
+  font-weight: bold;
+}
+</style>
+</head>
+<body>
+<div class="yellow-rectangle">
+  <span style="color: black;">Yellow Rectangle!</span>
+</div>
+</body>
+</html>
 
+
+![Yellow Rectangle](yellow-rectangle.html)
