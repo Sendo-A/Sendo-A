@@ -9,10 +9,11 @@ Welcome to my repositories and I'm sure it'll be useful to you
 
 The langauges That I use.
 
-Applications - Algorithms
+#### Applications - Algorithms
+
 <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="sql"/> <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> 
 
-DataBases
+#### DataBases
 
 <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="sql"/
 
