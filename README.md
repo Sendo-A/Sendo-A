@@ -10,4 +10,5 @@ Welcome to my repositories and I'm sure it'll be useful to you
 
 <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 
-![SQL](<a href="https://www.flaticon.com/free-icons/sql" title="sql icons">Sql icons created by Smashicons - Flaticon</a>)
+![SQL](https://www.flaticon.com/free-icon/database_4248443)
+
