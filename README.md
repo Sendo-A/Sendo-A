@@ -13,5 +13,5 @@ Welcome to my repositories and I'm sure it'll be useful to you
 <img width="48" height="48" src="https://www.svgrepo.com/show/261919/database.svg" alt="sql"/>
 
 <span style="color: blue;">JavaScript</span> - <span style="color: green;">Python</span> - <span style="color: orange;">Java</span>
-
+![Image description](C:\Users\Jagua\Desktop\Github)
 
