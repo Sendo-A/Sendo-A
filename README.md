@@ -14,7 +14,9 @@ Welcome to my repositories and I'm sure it'll be useful to you
 ![Python](https://img.icons8.com/color/48/python--v1.png)
 ![Bootstrap](https://img.shields.io/badge/Framework-Bootstrap-blue)
 ![React](https://img.shields.io/badge/Library-React-blue)
-<div style="background-color: yellow; width: 150px; height: 80px; border: 2px solid blue; text-align: center; border-radius: 5px;">
-  <p style="color: blue; font-weight: bold; padding: 10px 0; margin: 0;">Python</p>
-</div>
+
+<svg width="200" height="100" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="yellow" />
+  <text x="50%" y="50%" fill="blue" font-size="24" text-anchor="middle" dy=".3em">Python</text>
+</svg>
 
