@@ -8,7 +8,8 @@ I'm Data and Software Engineer in constant learning looking to expand my knowled
 Welcome to my repositories and I'm sure it'll be useful to you
 
 
-<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/><div style="background-color: #e0e0e0; padding: 10px; border: 2px solid #555; border-radius: 5px;">
+<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+<div style="background-color: #e0e0e0; padding: 10px; border: 2px solid #555; border-radius: 5px;">
   <p style="color: blue; font-weight: bold;">This is a colored rectangle with text.</p>
 </div>
 
