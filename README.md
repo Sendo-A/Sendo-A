@@ -19,6 +19,6 @@ The languages That I use.
 
 #### Cloud Computing
 
-<img width="48" height="48" src="https://www.svgrepo.com/show/353467/azure-icon.svg" alt="sql"/>
+<img width="48" height="48" src="https://www.svgrepo.com/show/353467/azure-icon.svg" alt="sql"/> <img width="48" height="48" src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-icon.svg" alt="sql"/>
 
 
