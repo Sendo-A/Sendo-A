@@ -8,7 +8,6 @@ I'm Data and Software Engineer in constant learning looking to expand my knowled
 Welcome to my repositories and I'm sure it'll be useful to you
 
 
-<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> <img width="48" height="48" src="https://www.svgrepo.com/show/261919/database.svg" alt="sql"/>
-![Pyhton](https://img.icons8.com/color/48/python--v1.png)  ![Sql](https://www.svgrepo.com/show/261919/database.svg) ![Icon 3](icon3.png)
+![Python](<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>) ![Sql](<img width="48" height="48" src="https://www.svgrepo.com/show/261919/database.svg" alt="sql"/>)
 
 
