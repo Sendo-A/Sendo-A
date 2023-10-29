@@ -12,6 +12,8 @@ Welcome to my repositories and I'm sure it'll be useful to you
 
 <img width="48" height="48" src="https://www.svgrepo.com/show/261919/database.svg" alt="sql"/>
 
-<span style="color: blue;">JavaScript</span> - <span style="color: green;">Python</span> - <span style="color: orange;">Java</span>
-![Image description](C:\Users\Jagua\Desktop\Github)
-
+<div class="gallery">
+  <img src="https://img.icons8.com/color/48/python--v1.png" alt="Image 1">
+  <img src="https://www.svgrepo.com/show/261919/database.svg" alt="Image 2">
+  <img src="image3.png" alt="Image 3">
+</div>
