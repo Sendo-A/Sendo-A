@@ -7,7 +7,8 @@ I'm Data and Software Engineer in constant learning looking to expand my knowled
 
 Welcome to my repositories and I'm sure it'll be useful to you
 
-The languages That I use.
+
+### The languages That I use.
 
 #### Algorithms - Machine Learning - Applications...
 
@@ -17,6 +18,7 @@ The languages That I use.
 
 <img width="48" height="48" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/sql-server-5410224-4543401.png?f=webp&w=256" alt="sql"/>
 
+### Platforms for applied cloud Computing used [ Azure, Ibm]
 #### Cloud Computing
 
 <img width="48" height="48" src="https://www.svgrepo.com/show/353467/azure-icon.svg" alt="sql"/> <img width="48" height="48" src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-icon.svg" alt="sql"/>
