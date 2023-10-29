@@ -15,7 +15,7 @@ The langauges That I use.
 
 #### DataBases
 
-<img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="sql"/
+<img width="48" height="48" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/sql-server-5410224-4543401.png?f=webp&w=256" alt="sql"/>
 
 
 
