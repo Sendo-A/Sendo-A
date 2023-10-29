@@ -7,7 +7,7 @@ I'm Data and Software Engineer in constant learning looking to expand my knowled
 
 Welcome to my repositories and I'm sure it'll be useful to you
 
-The langauges That I use.
+The languages That I use.
 
 #### Applications - Algorithms
 
