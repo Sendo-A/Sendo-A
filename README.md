@@ -10,6 +10,4 @@ Welcome to my repositories and I'm sure it'll be useful to you
 
 <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 
-![SQL](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvR5wkd_1DWfqPunt52AePXcpsqmwO0cfC5Ywh1hgBZZjUNjaP)
-
-
+![SQL](https://avatars.mds.yandex.net/i?id=9fa259bcf2112c76e62c806ee2fb3de898cb044d-8316779-images-thumbs&n=13)
