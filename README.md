@@ -12,8 +12,6 @@ Welcome to my repositories and I'm sure it'll be useful to you
 
 <img width="48" height="48" src="https://www.svgrepo.com/show/261919/database.svg" alt="sql"/>
 
-<div style="background-color: yellow; color: blue; padding: 10px; border: 2px solid blue; border-radius: 5px;">
-  Python
-</div>
+<span style="color: blue;">JavaScript</span> - <span style="color: green;">Python</span> - <span style="color: orange;">Java</span>
 
 
