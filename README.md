@@ -4,6 +4,8 @@
 
 I'm Data and Software Engineer in constant learning looking to expand my knowledge beyond limits. I have master degree in data engineering with so many projects and experiences and, I'm currently enrolled as software engineer student in alx_school with holberton coding school program.
 
+Welcome and thank you for visiting my repositories
+
 - The languages and Tools That I use.
 
 <a href="https://www.cprogramming.com/" rel="nofollow"> <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C" width="40" height="40" style="max-width: 100%;"></a><a href="https://git-scm.com/" rel="nofollow"> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="C" width="40" height="40" style="max-width: 100%;"></a>
