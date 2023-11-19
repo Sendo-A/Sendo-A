@@ -14,6 +14,12 @@ Welcome and Thank you for visiting my repositories.
 <a href="https://hadoop.apache.org/" rel="nofollow"> <img src="https://cdn.worldvectorlogo.com/logos/hadoop.svg" alt="Hadoop" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://spark.apache.org/" rel="nofollow"> <img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" alt="Spark" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://hive.apache.org/" rel="nofollow"> <img src="https://w7.pngwing.com/pngs/632/1015/png-transparent-apache-hive-apache-hadoop-big-data-apache-spark-rcfile-beehive-miscellaneous-food-flower-thumbnail.png" alt="Hive" width="40" height="40" style="max-width: 100%;"></a>
+<a href="https://www.javascript.com/" rel="nofollow"> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Hive" width="40" height="40" style="max-width: 100%;"></a>
+<a href="https://www.w3.org/Style/CSS/Overview.en.html" rel="nofollow"> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="Hive" width="40" height="40" style="max-width: 100%;"></a>
+<a href="https://dev.w3.org/html5/spec-LC/l" rel="nofollow"> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="Hive" width="40" height="40" style="max-width: 100%;"></a>
+
+
+
 
 
 - Platforms for applied cloud Computing used [Azure, Ibm]
