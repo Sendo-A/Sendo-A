@@ -6,7 +6,7 @@ I'm Data and Software Engineer in constant learning looking to expand my knowled
 
 Welcome and Thank you for visiting my repositories.
 
-### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5qdXpzYjFkc2x5dndjMnNjN2RiZHJ5aWE1YmxweDFmaXBqY3owZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/usXZmmgP9Z7kf39fnq/giphy.gif" width="60px"> You can Also Reach me on: 📫 **abdelhadi-chajia@outlook.fr** 
+### <img src=https://splashbi.com/wp-content/uploads/2022/10/datapipe-logo-ic.svg" width="40px"> You can Also Reach me on: 📫 **abdelhadi-chajia@outlook.fr** 
 
 <a href="https://www.linkedin.com/in/abdelhadi-chaji%C3%A2/">
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
