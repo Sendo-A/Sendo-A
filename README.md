@@ -26,7 +26,6 @@ Welcome and Thank you for visiting my repositories.
 
 #### Cloud Computing
 
-<a href="https://azure.microsoft.com/en-us/pricing/purchase-options/pay-as-you-go" rel="nofollow"> <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Azure" width="40" height="40" style="max-width: 100%;"></a>
-<a href="https://www.ibm.com/cloud" rel="nofollow"> <img src="https://cdn.worldvectorlogo.com/logos/ibm-cloud-1.svg" alt="Azure" width="40" height="40" style="max-width: 100%;"></a>
+<img width="48" height="48" src="https://www.svgrepo.com/show/353467/azure-icon.svg" alt="sql"/> <img width="48" height="48" src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-icon.svg" alt="sql"/>
 
 
