@@ -1,12 +1,12 @@
-## Abdelhadi CHAJIA Data Engineer
+## Abdelhadi CHAJIA 
 
-### Hi All 👋
+### Hi All I'm a Data Engineer 👋
 
 I'm Data and Software Engineer in constant learning looking to expand my knowledge beyond limits. I have master degree in data engineering with so many projects and experiences and, I'm currently enrolled as software engineer student in alx_school with holberton coding school program.
 
 Welcome and Thank you for visiting my repositories.
 
-### <img src="https://giphy.com/gifs/pudgypenguins-data-engineering-doesnt-lie-usXZmmgP9Z7kf39fnq" width="60px"> You can Also Find me on:
+### <iframe src="https://giphy.com/embed/usXZmmgP9Z7kf39fnq" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-data-engineering-doesnt-lie-usXZmmgP9Z7kf39fnq">via GIPHY</a></p> You can Also Reach me on:
   📫 **abdelhadi-chajia@outlook.fr** 
 
 <a href="https://www.linkedin.com/in/abdelhadi-chaji%C3%A2/">
