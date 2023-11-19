@@ -8,7 +8,7 @@ Welcome and Thank you for visiting my repositories.
 
 #### Algorithms - Machine Learning - Applications...
 
-<img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="angular" width="45" height="45" data-canonical-src="https://www.cprogramming.com/" style="max-width: 100%;">
+<<a href="https://www.cprogramming.com/" rel="nofollow"> <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C" width="40" height="40" style="max-width: 100%;>
 
 
 #### DataBases And Vizualisation
