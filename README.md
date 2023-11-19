@@ -6,8 +6,7 @@ I'm Data and Software Engineer in constant learning looking to expand my knowled
 
 Welcome and Thank you for visiting my repositories.
 
-### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5qdXpzYjFkc2x5dndjMnNjN2RiZHJ5aWE1YmxweDFmaXBqY3owZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/usXZmmgP9Z7kf39fnq/giphy.gif" width="60px"> You can Also Reach me on:
-  📫 **abdelhadi-chajia@outlook.fr** 
+### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5qdXpzYjFkc2x5dndjMnNjN2RiZHJ5aWE1YmxweDFmaXBqY3owZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/usXZmmgP9Z7kf39fnq/giphy.gif" width="60px"> You can Also Reach me on: 📫 **abdelhadi-chajia@outlook.fr** 
 
 <a href="https://www.linkedin.com/in/abdelhadi-chaji%C3%A2/">
    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -43,3 +42,6 @@ Welcome and Thank you for visiting my repositories.
 <a href="https://www.ibm.com/cloud" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-icon.svg" alt="IBM Cloud" width="40" height="40" style="max-width: 100%;"></a>
 
 
+![Sendo-A's Stats](https://github-readme-stats.vercel.app/api?username=Sendo-A&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Sendo-A's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sendo-A&theme=vue-dark&hide_border=true)
+![Sendo-A's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sendo-A&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
