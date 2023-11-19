@@ -1,4 +1,4 @@
-## Abdelhadi CHAJIA 
+## <strong>Abdelhadi CHAJIA</strong>
 
 ### Hi All I'm a Data Engineer 👋
 
