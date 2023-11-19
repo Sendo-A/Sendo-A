@@ -42,6 +42,6 @@ Welcome and Thank you for visiting my repositories.
 <a href="https://www.ibm.com/cloud" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-icon.svg" alt="IBM Cloud" width="40" height="40" style="max-width: 100%;"></a>
 
 
-<img src=https://github-readme-stats.vercel.app/api?username=Sendo-A&theme=vue-dark&show_icons=true&hide_border=true&count_private=true/><br>
-<img src=https://github-readme-streak-stats.herokuapp.com/?user=Sendo-A&theme=vue-dark&hide_border=true/><br>
-<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Sendo-A&theme=vue-dark&show_icons=true&hide_border=true&layout=compact/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sendo-A&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sendo-A&theme=vue-dark&hide_border=true"/><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sendo-A&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
