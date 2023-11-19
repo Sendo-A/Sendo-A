@@ -11,7 +11,7 @@ Welcome and Thank you for visiting my repositories.
 <img width="48" height="48" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="sql"/> <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> 
 
 <a href="https://spark.apache.org/">
-  <img src="pngwing.com.png" alt="Icon" width="50" height="50"> <!-- Adjust width and height as needed -->
+  <img src="pngwing.com.png" alt="Icon" width="48" height="48"> <!-- Adjust width and height as needed -->
 </a>
 
 
