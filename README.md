@@ -7,9 +7,10 @@ Welcome and Thank you for visiting my repositories.
 - The languages and Tools That I use.
 
 <a href="https://www.cprogramming.com/" rel="nofollow"> <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C" width="40" height="40" style="max-width: 100%;"></a><a href="https://git-scm.com/" rel="nofollow"> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="C" width="40" height="40" style="max-width: 100%;"></a>
-<a href="https://www.python.org/" rel="nofollow"> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="C" width="40" height="40" style="max-width: 100%;"></a>
-<a href="https://www.mysql.com/" rel="nofollow"> <img src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg" alt="C" width="40" height="40" style="max-width: 100%;"></a>
-<a href="https://www.postgresql.org/" rel="nofollow"> <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="C" width="40" height="40" style="max-width: 100%;"></a>
+<a href="https://www.python.org/" rel="nofollow"> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" height="40" style="max-width: 100%;"></a>
+<a href="https://www.mysql.com/" rel="nofollow"> <img src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg" alt="Mysql" width="40" height="40" style="max-width: 100%;"></a>
+<a href="https://www.postgresql.org/" rel="nofollow"> <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="Postgresql" width="40" height="40" style="max-width: 100%;"></a>
+<a href="https://www.postgresql.org/" rel="nofollow"> <img src="https://w7.pngwing.com/pngs/252/727/png-transparent-power-bi-business-intelligence-microsoft-analytics-microsoft-text-rectangle-logo-thumbnail.png" alt="PowerBi" width="40" height="40" style="max-width: 100%;"></a>
 
 
 
