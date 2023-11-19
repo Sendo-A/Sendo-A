@@ -12,18 +12,8 @@ Welcome and Thank you for visiting my repositories.
 <a href="https://www.postgresql.org/" rel="nofollow"> <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="Postgresql" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://powerbi.microsoft.com/fr-fr/" rel="nofollow"> <img src="https://w7.pngwing.com/pngs/252/727/png-transparent-power-bi-business-intelligence-microsoft-analytics-microsoft-text-rectangle-logo-thumbnail.png" alt="PowerBi" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://hadoop.apache.org/" rel="nofollow"> <img src="https://cdn.worldvectorlogo.com/logos/hadoop.svg" alt="Hadoop" width="40" height="40" style="max-width: 100%;"></a>
-<a href="https://spark.apache.org/" rel="nofollow"> <img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" alt="Hadoop" width="40" height="40" style="max-width: 100%;"></a>
+<a href="https://spark.apache.org/" rel="nofollow"> <img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" alt="Spark" width="40" height="40" style="max-width: 100%;"></a>
 
-
-
-
-
-
-
-
-#### DataBases And Vizualisation
-
-<img width="48" height="48" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/sql-server-5410224-4543401.png?f=webp&w=256" alt="sql"/> <img width="48" height="48" src="https://seekvectorlogo.com/wp-content/uploads/2022/02/power-bi-vector-logo-2022-small.png" alt="sql"/>
 
 - Platforms for applied cloud Computing used [Azure, Ibm]
 
