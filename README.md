@@ -20,6 +20,9 @@ Welcome and thank you for visiting my repositories
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 #### Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+#### Visiualization
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='sql' src='https://img.shields.io/badge/sql-100000?style=for-the-badge&logo=sql&logoColor=white&labelColor=black&color=black'/></a>
 
 
 
