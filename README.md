@@ -8,29 +8,17 @@ Welcome and thank you for visiting my repositories
 
 - The languages and Tools That I use.
 
-<h3> 🛠 &nbsp;Tech Stack <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"></h3>
-
-- 💻 &nbsp;
-  ![PYTHON](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![SQL](https://img.shields.io/badge/SQL)
-  ![Power BI](https://img.shields.io/badge/Power%20BI)
 
 
-<a href="https://www.cprogramming.com/" rel="nofollow"> <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C" width="40" height="40" style="max-width: 100%;"></a><a href="https://git-scm.com/" rel="nofollow"> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="C" width="40" height="40" style="max-width: 100%;"></a>
 </a><a href="https://www.linux.org/" rel="nofollow"> <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-5.svg" alt="Linux" width="40" height="40" style="max-width: 100%;"></a>
-</a><a href="https://www.shellscript.sh/" rel="nofollow"> <img src="https://cdn.worldvectorlogo.com/logos/bash-2.svg" alt="Shell Scripting" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://www.python.org/" rel="nofollow"> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" height="40" style="max-width: 100%;"></a>
-<a href="https://www.mysql.com/" rel="nofollow"> <img src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg" alt="Mysql" width="40" height="40" style="max-width: 100%;"></a>
+<a href="https://www.mysql.com/" rel="nofollow"> <img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" alt="Mysql" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://www.postgresql.org/" rel="nofollow"> <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="Postgresql" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://www.mongodb.com/" rel="nofollow"> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="Mongodb" width="40" height="40" style="max-width: 100%;"></a>
-<a href="https://www.docker.com/" rel="nofollow"> <img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" alt="Docker" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://powerbi.microsoft.com/fr-fr/" rel="nofollow"> <img src="https://w7.pngwing.com/pngs/252/727/png-transparent-power-bi-business-intelligence-microsoft-analytics-microsoft-text-rectangle-logo-thumbnail.png" alt="PowerBi" width="40" height="40" style="max-width: 100%;"></a>
-<a href="https://hadoop.apache.org/" rel="nofollow"> <img src="https://cdn.worldvectorlogo.com/logos/hadoop.svg" alt="Hadoop" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://spark.apache.org/" rel="nofollow"> <img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" alt="Spark" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://hive.apache.org/" rel="nofollow"> <img src="https://w7.pngwing.com/pngs/632/1015/png-transparent-apache-hive-apache-hadoop-big-data-apache-spark-rcfile-beehive-miscellaneous-food-flower-thumbnail.png" alt="Hive" width="40" height="40" style="max-width: 100%;"></a>
-<a href="https://www.javascript.com/" rel="nofollow"> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" width="40" height="40" style="max-width: 100%;"></a>
-<a href="https://www.w3.org/Style/CSS/Overview.en.html" rel="nofollow"> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="40" height="40" style="max-width: 100%;"></a>
-<a href="https://dev.w3.org/html5/spec-LC/l" rel="nofollow"> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5" width="40" height="40" style="max-width: 100%;"></a>
+
 
 
 
