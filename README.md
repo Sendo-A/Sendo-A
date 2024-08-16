@@ -8,6 +8,14 @@ Welcome and thank you for visiting my repositories
 
 - The languages and Tools That I use.
 
+<h3> 🛠 &nbsp;Tech Stack <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"></h3>
+
+- 💻 &nbsp;
+  ![PYTHON](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![SQL](https://img.shields.io/badge/SQL)
+  ![Power BI](https://img.shields.io/badge/Power%20BI)
+
+
 <a href="https://www.cprogramming.com/" rel="nofollow"> <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C" width="40" height="40" style="max-width: 100%;"></a><a href="https://git-scm.com/" rel="nofollow"> <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="C" width="40" height="40" style="max-width: 100%;"></a>
 </a><a href="https://www.linux.org/" rel="nofollow"> <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-5.svg" alt="Linux" width="40" height="40" style="max-width: 100%;"></a>
 </a><a href="https://www.shellscript.sh/" rel="nofollow"> <img src="https://cdn.worldvectorlogo.com/logos/bash-2.svg" alt="Shell Scripting" width="40" height="40" style="max-width: 100%;"></a>
