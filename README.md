@@ -25,6 +25,7 @@ Welcome and thank you for visiting my repositories
   ![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=OpenCV)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
