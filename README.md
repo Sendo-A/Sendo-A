@@ -9,7 +9,8 @@ Welcome and thank you for visiting my repositories
 - The languages and Tools That I use.
 
 #### Coding
-<a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="30px" height="30px"><a>
+<a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="40px" height="40px"><a>
+<i class="programming lang-python"></i>
 
 
 
