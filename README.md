@@ -10,7 +10,8 @@ Welcome and thank you for visiting my repositories
 
 #### Coding
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="40px" height="40px"><a>
-<i class="programming lang-python"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+          
 
 
 
