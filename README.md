@@ -10,7 +10,7 @@ Welcome and thank you for visiting my repositories
 
 #### Coding
 
-[Git]!(https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg)
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40px" height="40px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="40px" height="40px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="Sql" width="40px" height="40px" />
           
 
