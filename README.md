@@ -13,8 +13,6 @@ Welcome and thank you for visiting my repositories
 
 - Platforms for applied cloud Computing used [Azure, Ibm]
 
-#### Cloud Computing
-
 <a href="https://azure.microsoft.com/fr-fr" rel="nofollow"> <img src="https://www.svgrepo.com/show/353467/azure-icon.svg" alt="Azure Cloud" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://www.ibm.com/cloud" rel="nofollow"> <img src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-icon.svg" alt="IBM Cloud" width="40" height="40" style="max-width: 100%;"></a>
 
